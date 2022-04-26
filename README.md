@@ -1,2 +1,2 @@
 # Projects
-Home for personal projects.
+Repo contains my personal projects from microcontrollers to C-based games.
